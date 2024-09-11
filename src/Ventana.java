@@ -34,5 +34,6 @@ public class Ventana extends JFrame {
 
         add(barra);
 
+        System.out.println("Se cargó la ventana");
     }
 }
