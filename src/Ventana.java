@@ -33,7 +33,9 @@ public class Ventana extends JFrame {
 
         opciones.add(creditos);
 
-        add(barra);
+        Lamina lamina = new Lamina();
+        add(lamina);
+        lamina.add(barra);
 
         System.out.println("Se cargó la ventana");
     }
