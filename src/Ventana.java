@@ -2,6 +2,7 @@ import javax.swing.*;
 
 public class Ventana extends JFrame {
     Ventana(){
+        System.out.println("Empieza la carga de la vengana");
         setLocationRelativeTo(null);
         setSize(500,300);
         setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
@@ -34,5 +35,6 @@ public class Ventana extends JFrame {
 
         add(barra);
 
+        System.out.println("Se cargó la ventana");
     }
 }
