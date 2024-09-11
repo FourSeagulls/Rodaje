@@ -4,11 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="519bb525-c363-4057-86d6-560ef739f5bf" name="Changes" comment="Committed la ventana">
-      <change afterPath="$PROJECT_DIR$/src/Lamina.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Ventana.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Ventana.java" afterDir="false" />
-    </list>
+    <list default="true" id="519bb525-c363-4057-86d6-560ef739f5bf" name="Changes" comment="Committed la ventana" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
