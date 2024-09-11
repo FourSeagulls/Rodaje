@@ -7,6 +7,9 @@ public class Main {
 	Ventana ventana = new Ventana();
         ventana.setVisible(true);
 
+        Formu formu = new Formu();
+        formu.setVisible(true);
+
         System.out.println("El programa se acabó");
     }
 

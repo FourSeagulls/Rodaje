@@ -2,40 +2,15 @@ import javax.swing.*;
 
 public class Ventana extends JFrame {
     Ventana(){
-        System.out.println("Empieza la carga de la vengana");
-        setLocationRelativeTo(null);
+        System.out.println("Empieza la carga de la ventana");
+
         setSize(500,300);
-        setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
+        setLocationRelativeTo(null);
         setTitle("Programa abierto");
-
-        JMenuBar barra = new JMenuBar();
-
-        JMenu archivo = new JMenu("Archivos");
-        JMenu edicion = new JMenu("Edición");
-        JMenu opciones = new JMenu("Opciones");
-
-        JMenuItem guardar = new JMenuItem("Guardar");
-        JMenuItem abrir = new JMenuItem("Abrir");
-        JMenuItem salir = new JMenuItem("Salir");
-
-        JMenuItem configuracion = new JMenuItem("Configuración");
-        JMenuItem creditos = new JMenuItem("Créditos");
-
-        barra.add(archivo);
-        barra.add(edicion);
-        barra.add(opciones);
-
-        archivo.add(guardar);
-        archivo.add(abrir);
-        archivo.add(salir);
-
-        edicion.add(configuracion);
-
-        opciones.add(creditos);
+        setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
 
         Lamina lamina = new Lamina();
         add(lamina);
-        lamina.add(barra);
 
         System.out.println("Se cargó la ventana");
     }
