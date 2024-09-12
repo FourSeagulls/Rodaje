@@ -5,11 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="519bb525-c363-4057-86d6-560ef739f5bf" name="Changes" comment="Committed la ventana">
-      <change afterPath="$PROJECT_DIR$/src/Fenestra.form" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Fenestra.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Formu.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Barra.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Barra.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lamina.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lamina.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Ventana.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Ventana.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -82,7 +82,15 @@
       <option name="project" value="LOCAL" />
       <updated>1726073308662</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Committed la ventana">
+      <option name="closed" value="true" />
+      <created>1726156593919</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1726156593919</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">

@@ -1,4 +1,5 @@
 import javax.swing.*;
+import java.awt.*;
 
 public class Ventana extends JFrame {
     Ventana(){
@@ -8,9 +9,10 @@ public class Ventana extends JFrame {
         setLocationRelativeTo(null);
         setTitle("Programa abierto");
         setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
+        setLayout(new BorderLayout());
 
         Lamina lamina = new Lamina();
-        add(lamina);
+        add(lamina, BorderLayout.NORTH);
 
         System.out.println("Se cargó la ventana");
     }

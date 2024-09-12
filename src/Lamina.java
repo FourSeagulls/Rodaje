@@ -3,14 +3,13 @@ import java.awt.*;
 
 public class Lamina extends JPanel {
     Lamina(){
-        setBackground(Color.green);
 
-        setLayout(new GridLayout(5,2));
+        setLayout(new BorderLayout());
 
         Barra barra = new Barra();
-        add(barra);
+        add(barra, BorderLayout.NORTH);
 
-        JLabel cabecera = new JLabel("Esta es la cabecera");
-        add(cabecera);
+
+
     }
 }
