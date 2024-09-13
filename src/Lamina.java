@@ -9,7 +9,8 @@ public class Lamina extends JPanel {
         Barra barra = new Barra();
         add(barra, BorderLayout.NORTH);
 
-
+        JLabel label = new JLabel("Y esto donde cae");
+        add(label, BorderLayout.CENTER);
 
     }
 }

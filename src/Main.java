@@ -3,8 +3,6 @@ import java.awt.*;
 
 public class Main {
     public static void main(String[] args) {
-        
-	System.out.println("El programa empieza");
 
 	Ventana ventana = new Ventana();
 
@@ -17,13 +15,13 @@ public class Main {
         cabecera.setBackground(Color.green);
         panelCentral.add(cabecera, BorderLayout.NORTH);
 
+
         JPanel jPanel = new JPanel();
         jPanel.setBackground(Color.orange);
         panelCentral.add(jPanel, BorderLayout.CENTER);
 
         ventana.setVisible(true);
 
-        System.out.println("El programa se acabó");
     }
 
 
