@@ -5,10 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="519bb525-c363-4057-86d6-560ef739f5bf" name="Changes" comment="Committed la ventana">
-      <change afterPath="$PROJECT_DIR$/src/imagen/iconin.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/imagen/image0.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/imagen/image1.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Barra.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Barra.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Lamina.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lamina.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lamina.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/panelBarra.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Ventana.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Ventana.java" afterDir="false" />
     </list>
@@ -48,17 +49,17 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ASKED_ADD_EXTERNAL_FILES": "true",
-    "Application.Main.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Users/Usuario/EspacioTrabajo/sobreMesa/sobreMesa/src/imagen",
-    "onboarding.tips.debug.path": "C:/Users/Usuario/EspacioTrabajo/sobreMesa/sobreMesa/src/Main.java"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;Application.Main.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Usuario/EspacioTrabajo/sobreMesa/sobreMesa/src/imagen&quot;,
+    &quot;onboarding.tips.debug.path&quot;: &quot;C:/Users/Usuario/EspacioTrabajo/sobreMesa/sobreMesa/src/Main.java&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\Usuario\EspacioTrabajo\sobreMesa\sobreMesa\src\imagen" />
